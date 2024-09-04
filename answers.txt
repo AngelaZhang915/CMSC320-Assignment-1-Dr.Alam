@@ -7,3 +7,10 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: It can be used in health care by giving patients a more accurate diagnoses by using data from patients across the world.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging keeps the history intact and adds a merge commit, while rebasing rewrites the history.
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my SQL skills.
